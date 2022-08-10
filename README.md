@@ -1,5 +1,5 @@
 # Hello there; welcome 👋🏾
-[![Twitter Badge](https://img.shields.io/badge/-@_Fbayomide-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/_Fbayomide)](https://twitter.com/iambolajiayo)
+[![Twitter Badge](https://img.shields.io/badge/-@_Fbayomide-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/_Fbayomide)](https://twitter.com/_Fbayomide)
 
 I'm a Graphic Designer and a Cloud Engineering Student at [Altschool Africa](https://altschoolafrica.com/). I'm passionate about learning, sharing knowledge
 
