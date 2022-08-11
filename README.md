@@ -1,7 +1,7 @@
 # Hi there! Welcome 👋🏾
 [![Twitter Badge](https://img.shields.io/badge/-@_Fbayomide-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/_Fbayomide)](https://twitter.com/_Fbayomide) [![Linkedin Badge](https://img.shields.io/badge/-Fbayomide-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/ayomide-joshua-fabiyi-32b902190/)](https://www.linkedin.com/in/ayomide-joshua-fabiyi-32b902190/)
 
-I'm a Graphic Designer and a Cloud Engineering Student at [Altschool Africa](https://altschoolafrica.com/). I'm passionate about learning, sharing knowledge
+I'm a Graphic Designer and a Cloud Engineering Student at [Altschool Africa](https://altschoolafrica.com/). I'm passionate about designing, the cloud and all that it entails.
 
 **Here's a quick summary about me**:
 
