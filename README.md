@@ -8,7 +8,7 @@ A Cloud DevOps Engineer with a year experience using cloud technologies. Passion
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm a problem solver, everything relating to tech interests me.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Cloud Support Engineer, DevOps Engineer (Intern or Junior level).
+- 💼 Job interests: Cloud Support Engineer, DevOps Engineer.
 - 📫 You can contact me by emailing fbayomide@gmail.com.
 
 ---
